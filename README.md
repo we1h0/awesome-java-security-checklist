@@ -82,8 +82,6 @@
 
 [JDK解决反序列化的方法](https://xz.aliyun.com/t/3210)
 
-[Java软Waf框架](https://xz.aliyun.com/t/513)
-
 
 ### 安全设计
 
@@ -116,6 +114,9 @@
 [ESAPI-JAVA](https://github.com/ESAPI/esapi-java-legacy)
 
 [openrasp](https://github.com/baidu/openrasp)
+
+[Java软Waf框架](https://xz.aliyun.com/t/513)
+
 
 ### 代码规范
 
