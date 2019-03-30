@@ -145,6 +145,23 @@ securitypaper：https://www.securitypaper.org/
 · 《Java核心技术》【美】Cay S.Horstmann；Gary Cornell，入门书籍
 
 · 《Java 编程思想》【美】Bruce eckel，进阶书籍
+#### 审计
+· 《安全编程代码静态分析》【美】Brian Checss/Jacob West
+
+#### 设计
+· 《需求设计：构建用户想要和需求的产品》【英】克里斯.布里顿
+· 《威胁建模：设计和交互更安全的软件》【美】Adam Shostack
+
+#### 架构
+· 《架构整洁之道》【美】Robert C.Martin
+· 《架构即未来》【美】MartinL.Abbott
+
+#### 持续交互
+· 《DevOps实践指南》【美】Gene Kim/Jez Humbie/Patrick Debois/John Wills
+· 《持续交互2.0 业务引领的DevOps精要》乔梁
+
+#### 产品
+· 《人人都是产品经理》苏杰
 
 #### 其他
 · 《编程高手箴言》梁肇新
@@ -152,10 +169,6 @@ securitypaper：https://www.securitypaper.org/
 · 《代码整洁之道》【美】Robert C.Martin
 
 · 《代码大全》【美】Steve McConnell
-
-#### 产品
-· 《人人都是产品经理》苏杰
-
 ### 感谢以下人员的贡献
 
 [@Weiho](http://github.com/zhaoweiho)
