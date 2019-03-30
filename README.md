@@ -101,6 +101,10 @@
 
 [实用性开发人员安全须知](https://github.com/FallibleInc/security-guide-for-developers)
 
+#### 威胁建模
+
+[威胁建模介绍](https://xz.aliyun.com/t/2061)
+
 ### 安全框架
 
 [apache-shiro](http://shiro.apache.org/)
