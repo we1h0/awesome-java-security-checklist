@@ -82,6 +82,7 @@
 
 [JDK解决反序列化的方法](https://xz.aliyun.com/t/3210)
 
+[Java常见通用漏洞和修复的代码以及利用payload](https://github.com/JoyChou93/java-sec-code)
 
 ### 安全设计
 
