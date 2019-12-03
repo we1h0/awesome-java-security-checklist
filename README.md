@@ -12,6 +12,8 @@
 
 [《史上最简单的Spring Cloud教程源码》](https://github.com/forezp/SpringCloudLearning)
 
+[Java 技术书籍大全](https://github.com/sorenduan/awesome-java-books)
+
 ### 代码审计
 [Java-Web-Security](https://github.com/dschadow/Java-Web-Security)
 
